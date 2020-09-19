@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Việt Nam trong ván cờ Trung-Mỹ
+date: "2020-09-17T22:12:03.284Z"
+description: "Cuộc chiến toàn diện đang khởi đầu giữa Mỹ và Trung Quốc chắc chắn đặt Việt Nam vào một vị thế cực kỳ khó khăn nhưng cũng cực kỳ then chốt và quan trọng"
 ---
 
 This is my first post on my new fake blog! How exciting!
