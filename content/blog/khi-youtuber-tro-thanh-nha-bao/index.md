@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Khi Youtuber trở thành nhà báo
+date: "2020-09-10T22:12:03.284Z"
+description: Cục diện kỹ nghệ truyền thông bị đảo lộn với những phương tiện truyền thông Internet đặt ra câu hỏi, khi nào một nhà làm chương trình mạng có thể được coi là nhà truyền thông hay nhà báo?
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
