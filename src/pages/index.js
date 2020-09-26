@@ -25,9 +25,8 @@ const BlogIndex = ({ data, location }) => {
       <SEO title="All posts" />
       <Bio />
       {posts.filter(obj => !obj.fields.slug.startsWith('/drafts')).map((post) => {
-        console.log('>>> POST', post);
-
-        const title = post.frontmatter.title || post.fields.slug
+        const title = post.frontmatter.title || post.fields.slug;
+        const authors = post.frontmatter.authors || null;
         return (
           <article
             key={post.fields.slug}
@@ -49,6 +48,7 @@ const BlogIndex = ({ data, location }) => {
                 </Link>
               </h3>
               <small>{post.frontmatter.date}</small>
+              {authors && <small>, {authors}</small>}
             </header>
             <section>
               <p
@@ -84,6 +84,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          authors
         }
       }
     }

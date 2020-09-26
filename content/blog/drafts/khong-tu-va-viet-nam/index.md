@@ -1,7 +1,7 @@
 ---
 title: Khổng Tử và Việt Nam
 date: "2020-09-17T22:12:03.284Z"
-description: "Sao Viện Khổng Tử có ở nhiều nước Tây phương mà không có ở Việt Nam?"
+description: "Sao Viện Khổng Tử có ở nhiều nước Tây phương mà không có ở Việt Nam? "
 ---
 
 This is my first post on my new fake blog! How exciting!

@@ -10,6 +10,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = pageContext
+  const authors = post.frontmatter.authors + ', ' || '';
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -35,8 +36,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               marginBottom: rhythm(1),
             }}
           >
-            {post.frontmatter.date}
+            {authors} {post.frontmatter.date}
           </p>
+          {/* {authors && <p>{aurhors}</p>} */}
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -99,6 +101,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        authors
       }
     }
   }

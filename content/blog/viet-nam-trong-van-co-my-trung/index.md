@@ -2,6 +2,7 @@
 title: Việt Nam trong ván cờ Mỹ-Trung
 date: "2020-09-17T22:12:03.284Z"
 description: "Cuộc chiến toàn diện đang khởi đầu giữa Mỹ và Trung Quốc chắc chắn đặt Việt Nam vào một vị thế cực kỳ khó khăn nhưng cũng cực kỳ then chốt và quan trọng"
+authors: "Nhạn Sơn"
 ---
 
 This is my first post on my new fake blog! How exciting!
