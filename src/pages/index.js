@@ -24,7 +24,9 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       <Bio />
-      {posts.map((post) => {
+      {posts.filter(obj => !obj.fields.slug.startsWith('/drafts')).map((post) => {
+        console.log('>>> POST', post);
+
         const title = post.frontmatter.title || post.fields.slug
         return (
           <article
