@@ -47,8 +47,9 @@ const BlogIndex = ({ data, location }) => {
                   <span itemProp="headline">{title}</span>
                 </Link>
               </h3>
+              {authors && <small>{authors}, </small>}
               <small>{post.frontmatter.date}</small>
-              {authors && <small>, {authors}</small>}
+
             </header>
             <section>
               <p

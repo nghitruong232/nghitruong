@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Nghi Truong`,
     author: {
-      name: `Nhạn Sơn`,
+      name: `Nghi Truong`,
       summary: ``,
     },
     description: `A Vietnamese Perspective Forum`,
