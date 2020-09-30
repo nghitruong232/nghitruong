@@ -3,6 +3,7 @@ title: Cộng đồng Việt và tranh luận Trump-Biden (Hiệp 1)
 date: "2020-09-29"
 description: "Dù có đồng tình với chính sách của tổng thống Mỹ, Donald Trump, hay không, mọi người đều thấy rằng sau 4 năm tại chức, ông đã thay đổi cục diện thế giới một cách sâu sắc. Tiếp tục chính sách hiện tại hay nên thay đổi, cuộc bầu cử Mỹ 2020 sẽ ảnh hưởng quan trọng đến hướng đi Thế giới trong thế kỷ 21 trong đó có những vấn đề sinh tử đối với Việt Nam. Tối ngày 29 tháng 9 năm 2020, lúc 9 PM giờ California, cuộc tranh luận hiệp một giữa 2 ứng cử viên tổng thống Mỹ, Donald Trump và Joe Biden, sẽ diễn ra ở thành phố Cleveland, bang Ohio."
 authors: "Dốc Thượng"
+youtube: "https://www.youtube.com/watch?v=d3C6x7VNKeo"
 ---
 
 >Dù có đồng tình với chính sách của tổng thống Mỹ, Donald Trump, hay không, mọi người đều thấy rằng sau 4 năm tại chức, ông đã thay đổi cục diện thế giới một cách sâu sắc. Tiếp tục chính sách hiện tại hay nên thay đổi, cuộc bầu cử Mỹ 2020 sẽ ảnh hưởng quan trọng đến hướng đi Thế giới trong thế kỷ 21 trong đó có những vấn đề sinh tử đối với Việt Nam. Tối ngày 29 tháng 9 năm 2020, lúc 9 PM giờ California, cuộc tranh luận hiệp một giữa 2 ứng cử viên tổng thống Mỹ, Donald Trump và Joe Biden, sẽ diễn ra ở thành phố Cleveland, bang Ohio.
@@ -24,5 +25,15 @@ Tác động "làm lệch cán cân" của cữử tri ở những nơi được
 Cũng không thể không nhắc tới một thành phần người Mỹ gốc Việt, sau nhiều năm sống trên nước Mỹ, đã bắt đầu đặt nặng quan tâm về những vấn đề mang tính đời sống như an sinh, công bằng xã hội, chính sách di dân, y tế hoặc giáo dục. Và họ có khuynh hướng ngã về phía đảng Dân Chủ khi đảng này để tâm tới các vấn đề đối nội nhiều hơn so với đảng Cộng Hoà. Sự thầm lặng của họ vì tập quán an thân tránh tranh cãi đối chất ồn ào công khai không có nghĩa là họ không có mặt. Nhưng, thường thì phải đợi đến kết quả sau bầu cử, nhất là những chức vụ địa phương như thị trưởng, nghị viện thành phố, giám sát viên quận, uỷ viên giáo dục, hạ nghị sĩ hay thượng nghị sĩ tiểu bang, người ta mới thấy được sự hiện diện này.
 
 Vào lúc 9 giờ tối giờ California, cuộc tranh luận tổng thống cho nhiệm kỳ 2020, hiệp một, sẽ xảy ra tại thành phố Cleveland, của tiểu bang chiến trường Ohio, phát súng đầu tiên chính thức báo hiệu cuộc chay đua nước rút giai đoạn cuối vào Toà Bạch Ốc. Ai thắng chức vị tổng thống nước Mỹ vào năm 2020 không những sẽ có ảnh hưởng lớn lao đến hướng đi của thế giới trong thế kỷ 21, mà còn quyết định đến những vấn đề sinh tử liên quan đến Việt Nam.
+
+<iframe
+      src="https://www.youtube.com/watch?v=d3C6x7VNKeo"
+      title="Trump vs Biden"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      frameBorder="0"
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true"
+      allowFullScreen
+></iframe>
  
 
