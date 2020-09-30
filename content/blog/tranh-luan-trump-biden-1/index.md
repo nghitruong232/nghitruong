@@ -10,7 +10,7 @@ youtube: "https://www.youtube.com/watch?v=d3C6x7VNKeo"
 
 ![Trump vs Biden](./Trump_Biden_1.jpg)
 
-Nhắc lại chuyện cũ, măm 1975 khi cuộc chiến Nam-Bắc Việt Nam đang diễn ra khốc liệt, miền Nam Việt Nam (tức Việt Nam Cộng Hoà) hết đạn dược, tổng thống Mỹ, Gerald Ford thuộc đảng Cộng Hoà, yêu cầu Quốc Hội phê chuẩn một gói ngân sách tiếp viện khẩn cấp $300 triệu Mỹ kim, cho Việt Nam Cộng Hoà. Nhưng quốc hội Mỹ lúc đó, dưới sự kiểm soát của đa số nghị sĩ Dân Chủ đã bỏ phiếu bác yêu cầu này, một cách gián tiếp bỏ rơi và thường bị người miền Nam kết tội "bức tử" Việt Nam Cộng Hoà. Mối hận này dù theo năm tháng vẫn chưa phai, cho nên cộng đồng người Việt tỵ nạn từ khi hình thành tại Mỹ, về mặt chính trị, đã trung thành ủng hộ đảng Cộng Hoà một cách mạnh mẽ, khác với đa số những cộng đồng sắc dân Á Châu khác thiên về khuynh hướng thân đảng Dân Chủ. 
+Nhắc lại chuyện cũ, năm 1975 khi cuộc chiến Nam-Bắc Việt Nam đang diễn ra khốc liệt, miền Nam Việt Nam (tức Việt Nam Cộng Hoà) hết đạn dược, tổng thống Mỹ, Gerald Ford thuộc đảng Cộng Hoà, yêu cầu Quốc Hội phê chuẩn một gói ngân sách tiếp viện khẩn cấp $300 triệu Mỹ kim, cho Việt Nam Cộng Hoà. Nhưng quốc hội Mỹ lúc đó, dưới sự kiểm soát của đa số nghị sĩ Dân Chủ đã bỏ phiếu bác yêu cầu này, một cách gián tiếp bỏ rơi và thường bị người miền Nam kết tội "bức tử" Việt Nam Cộng Hoà. Mối hận này dù theo năm tháng vẫn chưa phai, cho nên cộng đồng người Việt tỵ nạn từ khi hình thành tại Mỹ, về mặt chính trị, đã trung thành ủng hộ đảng Cộng Hoà một cách mạnh mẽ, khác với đa số những cộng đồng sắc dân Á Châu khác thiên về khuynh hướng thân đảng Dân Chủ. 
 
 Đó là chuyện của nửa thế kỷ trước, gần đây hơn, khi Trung Quốc đang lấn chiếm Biển Đông và uy hiếp Việt Nam, chính sách chống Trung Quốc kịch liệt của tổng thổng Mỹ thuộc đảng Cộng Hoà, Donald Trump, thu phục được sự ủng hộ nhiệt tình mạnh mẽ và rõ rệt của người Mỹ gốc Việt. Đến nỗi, ai có những phát biểu nào mang tính phê phán tổng thống Trump sẽ bị đám đông ném đá một cách không thương tiếc. Điển hình sự cố "tai nạn nghề nghiệp" liên quan đến phát biểu chế diễu tổng thống Trump của MC Nguyễn Ngọc Ngạn, một người được đa số quần chúng Việt trên thế giới yêu thích qua cách dẫn chuyện uyên bác và duyên dáng của những chương trình văn nghệ Thuý Nga Paris.
 
@@ -26,8 +26,8 @@ Cũng không thể không nhắc tới một thành phần người Mỹ gốc V
 
 Vào lúc 9 giờ tối giờ California, cuộc tranh luận tổng thống cho nhiệm kỳ 2020, hiệp một, sẽ xảy ra tại thành phố Cleveland, của tiểu bang chiến trường Ohio, phát súng đầu tiên chính thức báo hiệu cuộc chay đua nước rút giai đoạn cuối vào Toà Bạch Ốc. Ai thắng chức vị tổng thống nước Mỹ vào năm 2020 không những sẽ có ảnh hưởng lớn lao đến hướng đi của thế giới trong thế kỷ 21, mà còn quyết định đến những vấn đề sinh tử liên quan đến Việt Nam.
 
-<iframe
-      src="https://www.youtube.com/watch?v=d3C6x7VNKeo"
+<iframe width="420" height="315"
+      src="https://www.youtube.com/embed/d3C6x7VNKeo"
       title="Trump vs Biden"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       frameBorder="0"
