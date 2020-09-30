@@ -14,7 +14,7 @@ Nhắc lại chuyện cũ, năm 1975 khi cuộc chiến Nam-Bắc Việt Nam đa
 
 Đó là chuyện của nửa thế kỷ trước, gần đây hơn, khi Trung Quốc đang lấn chiếm Biển Đông và uy hiếp Việt Nam, chính sách chống Trung Quốc kịch liệt của tổng thổng Mỹ thuộc đảng Cộng Hoà, Donald Trump, thu phục được sự ủng hộ nhiệt tình mạnh mẽ và rõ rệt của người Mỹ gốc Việt. Đến nỗi, ai có những phát biểu nào mang tính phê phán tổng thống Trump sẽ bị đám đông ném đá một cách không thương tiếc. Điển hình sự cố "tai nạn nghề nghiệp" liên quan đến phát biểu chế diễu tổng thống Trump của MC Nguyễn Ngọc Ngạn, một người được đa số quần chúng Việt trên thế giới yêu thích qua cách dẫn chuyện uyên bác và duyên dáng của những chương trình văn nghệ Thuý Nga Paris.
 
-[Nguyen Ngoc Ngan: "Bạo chúa Trump"] (https://www.youtube.com/watch?v=Ojv0t9zATbU)
+[Nguyen Ngoc Ngan chính thức lên tiếng về phát biểu liên quan đến TT Trump] (https://www.youtube.com/watch?v=taEZ0WlBXXU)
 
 Trên thực tế, sự ủng hộ của cử tri Việt tại những tiểu bang có đông đảo người Việt định cư gần như không có chút ảnh hưởng nào đến kết quả bầu cử tổng thống, khi số phận của những tiểu bang này gần như đã được định trước do sự hình thành chính trị xã hội ổn định từ nhiều năm, ví dụ như California gần như chắc chắn sẽ bỏ phiếu cho Dân Chủ Biden, trong khi Texas cho Cộng Hoà Trump. Nhưng ngược lại cử tri Việt ở những nơi xa xôi hẻo lánh của nước Mỹ lại có tiềm năng ảnh hưởng lớn lao đến của tranh cử tổng thống năm nay. 
 
