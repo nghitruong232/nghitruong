@@ -26,14 +26,6 @@ Cũng không thể không nhắc tới một thành phần người Mỹ gốc V
 
 Vào lúc 9 giờ tối giờ California, cuộc tranh luận tổng thống cho nhiệm kỳ 2020, hiệp một, sẽ xảy ra tại thành phố Cleveland, của tiểu bang chiến trường Ohio, phát súng đầu tiên chính thức báo hiệu cuộc chay đua nước rút giai đoạn cuối vào Toà Bạch Ốc. Ai thắng chức vị tổng thống nước Mỹ vào năm 2020 không những sẽ có ảnh hưởng lớn lao đến hướng đi của thế giới trong thế kỷ 21, mà còn quyết định đến những vấn đề sinh tử liên quan đến Việt Nam.
 
-<iframe width="420" height="315"
-      src="https://www.youtube.com/embed/d3C6x7VNKeo"
-      title="Trump vs Biden"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      frameBorder="0"
-      webkitallowfullscreen="true"
-      mozallowfullscreen="true"
-      allowFullScreen
-></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/d3C6x7VNKeo"></iframe>
  
 
