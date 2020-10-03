@@ -59,9 +59,8 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}
-        {` `}
-        <a href="https://nghitruong.com">NghiTruong.com</a>
+        <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">Kênh YouTube NghiTruong</a><br/>
+        © {new Date().getFullYear()}{` `}<a href="https://nghitruong.com">NghiTruong.com</a><br/>
       </footer>
     </div>
   )
