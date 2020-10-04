@@ -1,13 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
-
 import { rhythm, scale } from "../utils/typography"
 
 const Header = (props) => {
   const {location, title} = props;
   const rootPath = `${__PATH_PREFIX__}/`;
   
-  let header
+  let header;
 
   if (location.pathname === rootPath) {
     header = (
@@ -19,19 +18,8 @@ const Header = (props) => {
     )
   } else {
     header = (
-      <h3
-        style={{
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-        >
+      <h3 style={{fontFamily: `Montserrat, sans-serif`, marginTop: 0}}>
+        <Link style={{boxShadow: `none`, color: `inherit`}} to={`/`}>
           {title}
         </Link>
       </h3>
@@ -40,7 +28,5 @@ const Header = (props) => {
 
   return header;
 }
-
-
 
 export default Header;
