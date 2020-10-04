@@ -23,7 +23,8 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Bình luận" />
-      <Bio />
+      <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">Kênh YouTube</a>
+      {/* <Bio /> */}
       {posts.filter(obj => !obj.fields.slug.startsWith('/drafts')).map((post) => {
         const title = post.frontmatter.title || post.fields.slug;
         const authors = post.frontmatter.authors || null;
