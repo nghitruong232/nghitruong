@@ -13,7 +13,7 @@ const Header = (props) => {
     header = (
       <div>
           <Link style={{boxShadow: `none`, color: `inherit`}} to={`/`}>
-            <img src='/static/images/logo/NghiTruong_Logo_v2b2.png' />
+            <img src={'/logo.png'} />
           </Link>
       </div>
     )
