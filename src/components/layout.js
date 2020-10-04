@@ -13,7 +13,7 @@ const Layout = (props) => {
         marginLeft: `auto`,
         marginRight: `auto`,
         maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        padding: `0 ${rhythm(3 / 4)} ${rhythm(1.5)}`,
       }}
     >
       <header><Header {...props} /></header>

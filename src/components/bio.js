@@ -66,7 +66,7 @@ const Bio = () => {
       {author?.name && (
         <p>
           <strong>{author.name}</strong>{author?.summary ? ` ${author.summary}, ` : ', '}
-          <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">Kênh YouTube</a>
+          <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">YouTube</a>
           {/* <a href={`https://twitter.com/${social?.twitter || ``}`}>Twitter</a> */}
         </p>
       )}
