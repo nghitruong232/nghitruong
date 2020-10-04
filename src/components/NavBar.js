@@ -33,7 +33,7 @@ export default function NavBar({style}) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            Tin tức, Bình luận và Diễn đàn 
+            Bình luận và Diễn đàn 
           </Typography>
             <IconButton
               aria-label="account of current user"
