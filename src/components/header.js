@@ -6,29 +6,16 @@ import { rhythm, scale } from "../utils/typography"
 const Header = (props) => {
   const {location, title} = props;
   const rootPath = `${__PATH_PREFIX__}/`;
-  console.log('>>> props', props, rootPath);
   
   let header
 
   if (location.pathname === rootPath) {
     header = (
-      <h3
-        style={{
-          ...scale(1),
-          marginBottom: rhythm(1),
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-        >
-          {title}
-        </Link>
-      </h3>
+      <div>
+          <Link style={{boxShadow: `none`, color: `inherit`}} to={`/`}>
+            <img src='/static/images/logo/NghiTruong_Logo_v2b2.png' />
+          </Link>
+      </div>
     )
   } else {
     header = (
