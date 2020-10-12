@@ -76,4 +76,7 @@ Kìm hãm sự phát triển của Trung Hoa chưa đủ vì nếu ngày hôm na
 
 Trong mắt nhìn của Tây phương, cái **“hiểm hoạ da vàng”** trở nên rõ ràng hơn bao giờ hết với 1.5 tỷ dân Tầu, với một lực lượng quân sự đứng hàng thứ nhì trên thế giới mà quyền lực và mọi quyết định năm trong tay một người duy nhất.
 
-Sự nguy hiểm của Trung Hoa càng gia tăng nếu để người Tàu khống chế được toàn bộ khu vực biển Đông với những tài nguyên mới được khám phá. Dứt khoát, tham vọng bá quyền của Trung Hoa nếu không ngăn chặn ngay từ bây giờ thì sẽ không thể ngăn chặn được nữa trong tương lai gần. Trận chiến mậu dịch chỉ là mở đầu cho một trận chiến nóng hơn sẽ diễn ra ngay trên đại lục Trung Hoa
+Sự nguy hiểm của Trung Hoa càng gia tăng nếu để người Tàu khống chế được toàn bộ khu vực biển Đông với những tài nguyên mới được khám phá. Dứt khoát, tham vọng bá quyền của Trung Hoa nếu không ngăn chặn ngay từ bây giờ thì sẽ không thể ngăn chặn được nữa trong tương lai gần. Trận chiến mậu dịch chỉ là mở đầu cho một trận chiến nóng hơn sẽ diễn ra ngay trên đại lục Trung Hoa.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Gcqv_j1LB6g"></iframe>
+ 
