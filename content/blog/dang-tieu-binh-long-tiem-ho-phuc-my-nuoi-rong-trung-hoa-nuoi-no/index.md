@@ -3,7 +3,7 @@ title: Đặng Tiểu Bình "Long Tiềm Hổ Phục", Mỹ nuôi rồng, Trung 
 date: "2020-10-15"
 description: "Trong lúc Việt Nam vùng vẫy thoát hiểm thì ở Hoa Lục, với Đặng Tiểu Bình, con khủng long Trung Hoa một mặt che đấu nỗ lực gây dựng sức mạnh quân sự nhưng bành trướng mãnh liệt về  thương mại chính yếu là với Hoa Kỳ."
 authors: "Đông Duy"
-youtube: "https://www.youtube.com/watch?v=d3C6x7VNKeo"
+youtube: "https://www.youtube.com/watch?v=t4qiD18qF9M"
 ---
 
 >Trong lúc Việt Nam vùng vẫy thoát hiểm thì ở Hoa Lục, với Đặng Tiểu Bình, con khủng long Trung Hoa một mặt che đấu nỗ lực gây dựng sức mạnh quân sự nhưng bành trướng mãnh liệt về  thương mại chính yếu là với Hoa Kỳ.
@@ -33,7 +33,10 @@ Chủ nợ Trung Hoa tiếp tục phải nuôi con nợ Hoa Kỳ để đô�
 Mới nhất đây Trung Hoa cũng đang âm mưu tìm cách cho đồng “Quan kim-Yuan” thay thế đồng Dollar. Dầu hoả là máu huyết của kỹ nghệ. Trung Hoa hiện là quốc gia đứng đầu về nhập cảng dầu khí và họ đang vận động, ngay cả áp lực để các quốc gia bán dầu chấp nhận trả bằng đồng Yuan. (Nga sô đã đồng thuận trong đề nghị nhận trả tiền mua đầu và khí đốt bằng đồng Quan). Nếu chuyện này thành công trên toàn thế giới thì có nghĩa là chấm dứt việc xử dụng đồng Dollar-dầu hoả (petrodollar) như là trữ kim bản vị của thế giới.
 
 Nhìn về thế chiến lược quốc tế nếu Trung Hoa thành công trong âm mưu hạ bệ đồng Dollar thì đó chính là lưỡi giao đâm thẳng vào trái tim Hoa Kỳ.
+
 Nói khác đi là hạ bệ vai  trò của đồng Dollar. Hình Mao sẽ thay thế hình ông Washington trong túi tiền của mọi người. Sức mạnh kinh tế cũng phải đi đôi với sự bảo đảm an ninh và uy lực quân sự nên song hành với thịnh vượng kinh tế, Trung Hoa sau nhiều năm “che dấu sứ mạnh” theo chủ trương của Đặng Tiểu Bình đã tới lức không cần “Long tiềm hổ phục" nữa,  mà bắt đầu công khai bành trướng thế lực quân sự để hậu thuẫn cho sự bành trướng kinh tế và chính trị.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/t4qiD18qF9M"></iframe>
 
 
  
