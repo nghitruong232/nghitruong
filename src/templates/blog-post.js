@@ -25,10 +25,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             style={{
               marginTop: rhythm(1),
               marginBottom: 0,
+              fontFamily: `Georgia, sans-serif`,
             }}
           >
             {post.frontmatter.title}
           </h1>
+          <br/>
           <p
             style={{
               ...scale(-1 / 5),

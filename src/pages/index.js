@@ -38,6 +38,7 @@ const BlogIndex = ({ data, location }) => {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
+                  fontFamily: `Georgia, sans-serif`,
                 }}
               >
                 <Link
