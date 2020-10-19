@@ -2,6 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
 import TagsLayout from '../components/TagsLayout';
+import styles from '../styles';
 
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
@@ -10,16 +11,16 @@ const Tags = ({ pageContext, data }) => {
   return (
     <TagsLayout >
         <div>
-        <h1>{tagHeader}</h1>
+        <h1 style={{fontFamily: `Georgia, sans-serif`}}>{tagHeader}</h1>
         <ul>
             {edges.map(({ node }) => {
             const { slug } = node.fields
             const { title } = node.frontmatter
             return (
                 <li key={slug}>
-                <Link to={slug}>{title}</Link>
+                  <Link to={slug}>{title}</Link>
                 </li>
-            )
+              )
             })}
         </ul>
         {/*

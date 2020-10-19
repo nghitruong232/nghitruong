@@ -7,6 +7,12 @@ import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
 const styles = {
+  author: {
+    color: '#ee2266'
+  },
+  date: {
+    color: '#888888'
+  },
   tag: {
     border: '1px solid gray', 
     borderRadius: '4px',
@@ -67,8 +73,8 @@ const BlogIndex = ({ data, location }) => {
                 </Link>
               </h3>
               <div style={{marginBottom: '10px'}}>
-                {authors && <small>{authors}, </small>}
-                <small>{post.frontmatter.date}</small>
+                {authors && <small><span style={styles.author}>{authors}</span>, </small>}
+                <small style={styles.date}>{post.frontmatter.date}</small>
               </div>
             </header>
             <section>
