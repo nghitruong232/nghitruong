@@ -24,6 +24,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Bình luận" />
       <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">Kênh YouTube</a>
+      <a href="https://www.facebook.com/pg/NghiTruongcom-114028710488039">Facebook</a>
       {/* <Bio /> */}
       {posts.filter(obj => !obj.fields.slug.startsWith('/drafts')).map((post) => {
         const title = post.frontmatter.title || post.fields.slug;
