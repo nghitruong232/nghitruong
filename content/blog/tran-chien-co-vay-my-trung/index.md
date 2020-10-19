@@ -3,7 +3,7 @@ title: Trận chiến cờ Vây Mỹ-Trung
 date: "2020-10-18"
 description: "Mao Trạch Đông từng tiết  lộ là quan điểm chiến thuật của ông được rút tỉa từ cờ vây trong đó có những chiến thuật như “Dựa rừng núi lấn đồng bằng, bao vây chia cắt, làm ung thối địa bàn đối phương với vùng xôi đậu, xây dựng căn cứ an toàn từ vùng biên ... Trong cờ vây, có khi vòng vây trùng  điệp nhưng chỉ một bước đi có thể lật ngược thế cờ."
 authors: "Đông Duy"
-tags: ["biển Đông", "Mỹ-Trung", "chính trị", "quan hệ quốc tế", "chiến tranh"]
+tags: ["Biển Đông", "Mỹ-Trung", "Chính trị", "Quan hệ quốc tế", "Chiến tranh"]
 youtube: "https://www.youtube.com/watch?v=GtjV3YTiqlA"
 ---
 
