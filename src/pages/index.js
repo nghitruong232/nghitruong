@@ -1,10 +1,24 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
+import _ from 'lodash'
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+
+const styles = {
+  tag: {
+    border: '1px solid gray', 
+    borderRadius: '4px',
+    padding: '5px',
+    marginRight: '5px',
+    textDecoration: 'none',
+    backgroundColor: '#ffeedd',
+  },
+  link: {
+    textDecoration: 'none',
+  }
+}
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -29,6 +43,7 @@ const BlogIndex = ({ data, location }) => {
       {posts.filter(obj => !obj.fields.slug.startsWith('/drafts')).map((post) => {
         const title = post.frontmatter.title || post.fields.slug;
         const authors = post.frontmatter.authors || null;
+        const tags = post.frontmatter.tags || [];
         return (
           <article
             key={post.fields.slug}
@@ -62,7 +77,14 @@ const BlogIndex = ({ data, location }) => {
                 }}
                 itemProp="description"
               />
+              
             </section>
+            <small>
+            {tags.map(tag => <span style={styles.tag}>
+              <Link href={`/tags/${_.kebabCase(tag)}/`} style={styles.link}><span style={styles.link}>{tag}</span></Link></span>)
+            }
+            </small>
+            <hr style={{marginTop: '20px'}}/>
           </article>
         )
       })}
@@ -90,6 +112,7 @@ export const pageQuery = graphql`
           title
           description
           authors
+          tags
         }
       }
     }
