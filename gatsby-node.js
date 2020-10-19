@@ -13,7 +13,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const result = await graphql(
     `
       {
-        postsRemark: allMarkdownRemark (
+        allMarkdownRemark (
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 1000
         ) {
@@ -63,9 +63,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     })
   }
 
-   const tags = result.data.tagsGroup.group
+  const tags = result.data.tagsGroup.group
 
-   if (tags.length > 0) {
+  if (tags.length > 0) {
     tags.forEach(tag => {
       createPage({
         path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
