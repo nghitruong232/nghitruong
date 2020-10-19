@@ -9,7 +9,7 @@ youtube: "https://www.youtube.com/watch?v=GtjV3YTiqlA"
 
 >Nga-Trung-Mỹ như là một chuyện Tam Quốc thời hiện đại. Mỹ liên thủ với Trung Quốc hạ Nga Xô không khác gì Lưu Bị hợp quân với Tôn Quyền để đánh Tào Tháo trong trận Xích Bích. Nhưng rồi Thục Hán Lưu Bị cũng quay lại đánh nhau sống chết với Đông Ngô Tôn Quyền. Có phải Mỹ và Trung Quốc cũng đang tiến tới giai đoạn đó?
 
-Nửa sau của thế kỷ 20 là cuộc Chiến Tranh Lạnh, Nga Xô và Trung Quốc cùng một phe thuộc khối Cộng Sản, nhưng sau khi lãnh tụ Josef Stalin qua đời, Nitita Khrushev của Nga Xô chủ trương chung sống hoà bình với Phương Tây vì nguy cơ chiến tranh nguyên tử, trong khi Mao Trạch Đông của Trung Quốc cho đó là chủ nghĩa xét lại và cáo buộc Nga Xô đi ngược với học thuyết Max-Lê nguyên thuỷ. Nga và Trung Quốc xích mích, tách ra, chia ba thiên hạ làm thành thế chân vạc Nga-Trung-Mỹ. 
+Nửa sau của thế kỷ 20 là cuộc Chiến Tranh Lạnh, Nga Xô và Trung Quốc cùng một phe thuộc khối Cộng Sản, nhưng sau khi lãnh tụ Josef Stalin qua đời, Nikita Khrushev của Nga Xô chủ trương chung sống hoà bình với Phương Tây vì nguy cơ chiến tranh nguyên tử, trong khi Mao Trạch Đông của Trung Quốc cho đó là chủ nghĩa xét lại và cáo buộc Nga Xô đi ngược với học thuyết Max-Lê nguyên thuỷ. Nga và Trung Quốc xích mích, tách ra, chia ba thiên hạ làm thành thế chân vạc Nga-Trung-Mỹ. 
 
 Trong ba quốc gia, Trung Quốc lạc hậu và yếu nhất. Vậy mà nay, Trung Quốc trở thành siêu cường, tranh hùng vai trò lãnh đạo thế giới của Mỹ, khiến cho Mỹ đang phải vất vã thuyết phục đồng minh giữ vững phòng tuyến trước sự xâm nhập và công phá vũ bão của Trung Quốc. Thế mới biết, mưu lược của giới tinh hoa Trung Quốc, con cháu của Tôn Tử, không phải là tầm thường.
 
