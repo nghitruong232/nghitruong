@@ -6,9 +6,7 @@ import TagsLayout from '../components/TagsLayout';
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
   const { edges, totalCount } = data.allMarkdownRemark
-  const tagHeader = `${totalCount} post${
-    totalCount === 1 ? "" : "s"
-  } tagged with "${tag}"`
+  const tagHeader = `${totalCount} bài với đề mục "${tag}"`
   return (
     <TagsLayout >
         <div>

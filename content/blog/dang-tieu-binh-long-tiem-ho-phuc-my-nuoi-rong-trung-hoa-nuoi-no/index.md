@@ -3,7 +3,7 @@ title: Đặng Tiểu Bình "Long Tiềm Hổ Phục", Mỹ nuôi rồng, Trung 
 date: "2020-10-15"
 description: "Trong lúc Việt Nam vùng vẫy thoát hiểm thì ở Hoa Lục, với Đặng Tiểu Bình, con khủng long Trung Hoa một mặt che đấu nỗ lực gây dựng sức mạnh quân sự nhưng bành trướng mãnh liệt về  thương mại chính yếu là với Hoa Kỳ."
 authors: "Đông Duy"
-tags: ["Biển Đông", "Mỹ-Trung", "Chính trị", "Quan hệ quốc tế", "Chiến tranh"]
+tags: ["Biển Đông", "Mỹ-Trung", "Chính trị", "Quan hệ Quốc tế", "Chiến tranh"]
 youtube: "https://www.youtube.com/watch?v=t4qiD18qF9M"
 ---
 

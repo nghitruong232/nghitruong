@@ -10,13 +10,14 @@ const styles = {
   tag: {
     border: '1px solid gray', 
     borderRadius: '4px',
-    padding: '5px',
+    padding: '2px 5px',
     marginRight: '5px',
     textDecoration: 'none',
     backgroundColor: '#ffeedd',
   },
   link: {
     textDecoration: 'none',
+    boxShadow: 'none',
   }
 }
 
@@ -80,9 +81,12 @@ const BlogIndex = ({ data, location }) => {
               
             </section>
             <small>
-            {tags.map(tag => <span style={styles.tag}>
-              <Link href={`/tags/${_.kebabCase(tag)}/`} style={styles.link}><span style={styles.link}>{tag}</span></Link></span>)
-            }
+            {tags.map(tag => (
+              <span style={styles.tag}>
+                <Link href={`/tags/${_.kebabCase(tag)}/`} style={styles.link}>{tag}</Link>
+              </span>
+              )
+            )}
             </small>
             <hr style={{marginTop: '20px'}}/>
           </article>

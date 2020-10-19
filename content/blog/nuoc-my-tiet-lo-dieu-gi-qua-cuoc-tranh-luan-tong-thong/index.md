@@ -3,7 +3,7 @@ title: Nước Mỹ tiết lộ điều gì qua cuộc tranh luận tranh cử t
 date: "2020-09-30"
 description: "Một cuộc tranh luận tranh cử tổng thống được cho là quan trọng nhất, quyết định hướng đi của nước Mỹ và cục diện thế giới trong thế kỷ 21. Thế nhưng, những đánh giá phản hồi sau đó của đa số là một thất vọng tràn trề về một cuộc đấu khẩu được cho là tồi tệ nhất trong lịch sử Mỹ. Một cuộc tranh luận ở đẳng cấp quốc gia cao nhất nhưng là một sự sỉ nhục trong con mắt của đồng minh bạn bè quốc tế, và là bằng chứng cho sự suy sụp không thể cứu vãn của một siêu cường trong con mắt của đối thủ Trung Quốc. Nước Mỹ ẩn giấu điều gì qua hiện tượng này?"
 authors: "Dốc Thượng"
-tags: ["Bầu cử tổng thống Mỹ 2020", "Chính trị", "Hoa Kỳ"]
+tags: ["Bầu cử Mỹ", "Chính trị", "Hoa Kỳ"]
 ---
 
 >Một cuộc tranh luận tranh cử tổng thống được cho là quan trọng nhất, quyết định hướng đi của nước Mỹ và cục diện thế giới trong thế kỷ 21. Thế nhưng, những đánh giá phản hồi sau đó của đa số là một thất vọng tràn trề về một cuộc đấu khẩu được cho là tồi tệ nhất trong lịch sử Mỹ. Một cuộc tranh luận ở đẳng cấp quốc gia cao nhất nhưng là một sự sỉ nhục trong con mắt của đồng minh bạn bè quốc tế, và là một bằng chứng cho sự suy sụp không thể cứu vãn của một siêu cường trong con mắt của đối thủ Trung Quốc. Nước Mỹ đang ẩn giấu điều gì qua hiện tượng này?

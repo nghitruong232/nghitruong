@@ -3,7 +3,7 @@ title: Mưu lược Mỹ-Trung, cờ vây, cây gậy và củ cà rốt
 date: "2020-10-16"
 description: "Nga-Trung-Mỹ như là một chuyện Tam Quốc thời hiện đại. Mỹ liên thủ với Trung Quốc hạ Nga Xô không khác gì Lưu Bị hợp quân với Tôn Quyền để đánh Tào Tháo trong trận Xích Bích. Nhưng rồi Thục Hán Lưu Bị cũng quay lại đánh nhau sống chết với Đông Ngô Tôn Quyền. Có phải Mỹ và Trung Quốc cũng đang tiến tới giai đoạn đó?"
 authors: "Dốc Thượng"
-tags: ["Biển Đông", "Mỹ-Trung", "Chính trị", "Quan hệ quốc tế", "Chiến tranh"]
+tags: ["Biển Đông", "Mỹ-Trung", "Chính trị", "Quan hệ Quốc tế", "Chiến tranh"]
 youtube: "https://www.youtube.com/watch?v=GtjV3YTiqlA"
 ---
 
