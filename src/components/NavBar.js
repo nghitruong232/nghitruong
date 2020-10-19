@@ -8,6 +8,7 @@ import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import AccountCircle from '@material-ui/icons/AccountCircle';
 import styles from '../styles';
+import { Link } from "gatsby"
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -33,7 +34,8 @@ export default function NavBar({style}) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            Bình luận và Diễn đàn 
+            {/* <a href='/' style={{textDecoration: 'none', color: 'white'}}>Bình luận và Diễn đàn</a> */}
+            Bình luận và Diễn đàn
           </Typography>
             <IconButton
               aria-label="account of current user"

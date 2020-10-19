@@ -10,7 +10,7 @@ youtube: "https://www.youtube.com/watch?v=GtjV3YTiqlA"
 
 Cờ vây (Vi Kỳ) là một loại cờ tối cổ ở Trung Hoa, vì vậy rất đơn giản chỉ có những quân cờ đen và trắng nhưng cách chơi có thể rất đơn giản nhưng cũng biến hoá vô cùng.
 
-Đây là loại bàn cờ thường thấy trên bàn cờ của những tiên ông trong hình vẽ.
+Đây là loại cờ thường thấy trên bàn cờ của những tiên ông trong hình vẽ.
 
 Mao Trạch Đông từng tiết lộ là quan điểm chiến thuật của ông được rút tỉa từ cờ vây trong đó có những chiến thuật như “dựa rừng núi lấn đồng bằng, bao vây chia cắt, làm ung thối địa bàn đối phương với vùng xôi đậu, xây dựng căn cứ an toàn từ vùng biên ..."
 
