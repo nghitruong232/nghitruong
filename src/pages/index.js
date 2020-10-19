@@ -23,7 +23,7 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Bình luận" />
-      <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">Kênh YouTube</a>
+      <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">YouTube</a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.facebook.com/pg/NghiTruongcom-114028710488039">Facebook</a>
       {/* <Bio /> */}
       {posts.filter(obj => !obj.fields.slug.startsWith('/drafts')).map((post) => {
@@ -50,9 +50,10 @@ const BlogIndex = ({ data, location }) => {
                   <span itemProp="headline">{title}</span>
                 </Link>
               </h3>
-              {authors && <small>{authors}, </small>}
-              <small>{post.frontmatter.date}</small>
-
+              <div style={{marginBottom: '10px'}}>
+                {authors && <small>{authors}, </small>}
+                <small>{post.frontmatter.date}</small>
+              </div>
             </header>
             <section>
               <p

@@ -19,7 +19,8 @@ const Layout = (props) => {
       <header><Header {...props} /></header>
       <main>{children}</main>
       <footer>
-        <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">Kênh YouTube NghiTruong</a><br/>
+        <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">YouTube</a>&nbsp;&nbsp;
+        <a href="https://www.facebook.com/pg/NghiTruongcom-114028710488039">Facebook</a><br/>
         © {new Date().getFullYear()}{` `}<a href="https://nghitruong.com">NghiTruong.com</a><br/>
       </footer>
     </div>
