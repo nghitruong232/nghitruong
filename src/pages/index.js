@@ -73,8 +73,8 @@ const BlogIndex = ({ data, location }) => {
                 </Link>
               </h3>
               <div style={{marginBottom: '10px'}}>
-                {authors && <small><span style={styles.author}>{authors}</span>, </small>}
-                <small style={styles.date}>{post.frontmatter.date}</small>
+                {authors && <small><span style={styles.author}>{authors}</span></small>}
+                <small style={styles.date}>, {post.frontmatter.date}</small>
               </div>
             </header>
             <section>
