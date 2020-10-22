@@ -10,7 +10,7 @@ const Video = ({ pageContext, data }) => {
   return (
     <TagsLayout >
         <div style={{marginTop: '30px'}}>
-          <iframe width="380" height="240" src={`https://www.youtube.com/embed/${node.videoId}`} ></iframe>
+          <iframe width="375" height="240" src={`https://www.youtube.com/embed/${node.videoId}`} ></iframe>
         </div>
         <div>
         <h3 style={{fontFamily: `Georgia, sans-serif`}}>{node.title}</h3>
