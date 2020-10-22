@@ -6,6 +6,23 @@ import NavBar from './NavBar';
 const Header = (props) => {
   const {location, title} = props;
   const rootPath = `${__PATH_PREFIX__}/`;
+
+  return (
+      <div>
+          <NavBar style={{marginBottom: '40px'}} />
+          {location.pathname === rootPath && 
+            <Link style={{boxShadow: `none`, color: `inherit`}} to={`/`}>
+              <img src={'/logo.png'} />
+            </Link>
+          }
+      </div>
+    )
+}
+
+
+const Header2 = (props) => {
+  const {location, title} = props;
+  const rootPath = `${__PATH_PREFIX__}/`;
   
   let header;
 

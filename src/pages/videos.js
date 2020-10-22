@@ -28,7 +28,6 @@ const Videos = ({
                 ))}
             </ul>
             </div>
-            <pre>{JSON.stringify(edges, null, 2)}</pre>
         </div>
     </TagsLayout>
 )
