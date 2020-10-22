@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import Button from '../components/ui/Button';
 
 const styles = {
   author: {
@@ -12,18 +13,6 @@ const styles = {
   },
   date: {
     color: '#888888'
-  },
-  tag: {
-    border: '1px solid gray', 
-    borderRadius: '4px',
-    padding: '2px 5px',
-    marginRight: '5px',
-    textDecoration: 'none',
-    backgroundColor: '#ffeedd',
-  },
-  link: {
-    textDecoration: 'none',
-    boxShadow: 'none',
   }
 }
 
@@ -87,12 +76,7 @@ const BlogIndex = ({ data, location }) => {
               
             </section>
             <small>
-            {tags.map(tag => (
-              <span style={styles.tag}>
-                <Link href={`/tags/${_.kebabCase(tag)}/`} style={styles.link}>{tag}</Link>
-              </span>
-              )
-            )}
+            {tags.map(tag => <Button label={tag} href={`/tags/${_.kebabCase(tag)}/`} /> )}
             </small>
             <hr style={{marginTop: '20px'}}/>
           </article>
