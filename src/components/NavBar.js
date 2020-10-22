@@ -64,8 +64,9 @@ export default function NavBar({style}) {
       <div style={{marginTop: '5px'}}>
         <Button label='Bình luận' href="/" style={headButton} />
         <Button label='Tin tức' style={headButton} />
-        <Button label='Thăm dò dư luận' style={headButton} />
+        <Button label='Thăm dò' style={headButton} />
         <Button label='Đề mục' href="/tags/" style={headButton} />
+        <Button label='Videos' href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw" style={headButton} />
       </div>
 
     </div>
