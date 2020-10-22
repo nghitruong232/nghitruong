@@ -8,6 +8,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Define a template for blog post
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
   const tagTemplate = path.resolve(`./src/templates/tags.js`)
+  const videoTemplate = path.resolve(`./src/templates/video.js`)
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(
@@ -29,6 +30,19 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         tagsGroup: allMarkdownRemark(limit: 2000) {
           group(field: frontmatter___tags) {
             fieldValue
+          }
+        }
+        videos: allYoutubeVideo(filter: {channelId: {eq: "UCYN2oFv5nFNtgazsBvlwvmw"}}) {
+          edges {
+            node {
+              id
+              title
+              description
+              videoId
+              publishedAt
+              privacyStatus
+              channelTitle
+            }
           }
         }
       }
@@ -72,6 +86,20 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         component: tagTemplate,
         context: {
           tag: tag.fieldValue,
+        },
+      })
+    })
+  }
+
+  const videos = result.data.videos.edges;
+
+  if (videos.length > 0) {
+    videos.forEach(({node}) => {
+      createPage({
+        path: `/videos/${node.videoId}/`,
+        component: videoTemplate,
+        context: {
+          node
         },
       })
     })

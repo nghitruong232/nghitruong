@@ -66,7 +66,7 @@ export default function NavBar({style}) {
         {/* <Button label='Tin tức' style={headButton} />
         <Button label='Thăm dò' style={headButton} /> */}
         <Button label='Đề mục' href="/tags/" style={headButton} />
-        <Button label='Videos' href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw" style={headButton} />
+        <Button label='Videos' href="/videos" style={headButton} />
       </div>
 
     </div>
