@@ -35,8 +35,7 @@ export default function NavBar({style}) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h1" className={classes.title}>
-            {/* <a href='/' style={{textDecoration: 'none', color: 'white'}}>Bình luận và Diễn đàn</a> */}
-            Tin tức, Bình luận & Diễn đàn
+            <a href='/' style={{textDecoration: 'none', color: 'white'}}>Tin tức, Bình luận & Diễn đàn</a>
           </Typography>
             <IconButton
               aria-label="account of current user"

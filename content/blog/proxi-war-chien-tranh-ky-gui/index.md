@@ -3,7 +3,7 @@ title: Proxy War - Chiến Tranh Ký Gửi
 date: "2020-10-11"
 description: "Điều tiên quyết và không thể quên là Hoa Kỳ không muốn và không có lợi gì trong việc tiêu diệt Trung Hoa nhưng...nhất thiết cũng không thể cho phép Trung Hoa thoán nghịch ngôi vị số một của mình. Trung hoa phép cạnh tranh trong “khuôn khổ”  tức là làm ăn theo luật chơi quốc tế và trong vòng kiềm toả của Hoa Kỳ."
 authors: "Đông Duy"
-tags: ["Chính trị", "Quan hệ Quốc tế", "Chiến tranh"]
+tags: ["Chiến tranh", "Chính trị", "Quan hệ Quốc tế" ]
 youtube: "https://www.youtube.com/watch?v=d3C6x7VNKeo"
 ---
 
