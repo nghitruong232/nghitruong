@@ -79,5 +79,13 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-source-youtube-v2`,
+      options: {
+        channelId: ['UCYN2oFv5nFNtgazsBvlwvmw'],
+        apiKey: 'AIzaSyBka38O_H66mkC_QiPEy_EmT1V0wXDkrWM',
+        maxVideos: 50 // Defaults to 50
+      },
+    },
   ],
 }
