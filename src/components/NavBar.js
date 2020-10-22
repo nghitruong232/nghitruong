@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
   link: {
     boxShadow: 'none',
     color: 'white',
-    fontSize: '14px',
+    fontSize: '16px',
   }
 }));
 
