@@ -27,6 +27,35 @@ const useStyles = makeStyles((theme) => ({
     boxShadow: 'none',
     color: 'white',
     fontSize: '16px',
+  },
+  container: {
+    marginTop: '0px',
+    //border: '1px solid gray',
+    height: '40px',
+    display: 'grid',
+    gridTemplateColumns: '8fr 2fr',
+    justifyContent: 'center',
+  },
+  left: {
+    marginTop: '4px',
+  },
+  right: {
+    //backgroundColor: '#ffeeee',
+    display: 'flex',
+    justifyContent: 'flex-end',
+    alignItems: 'center',
+  },
+  youtube: {
+    height: '20px',
+    marginTop: '1px',
+    //border: '1px solid blue'
+  },
+  facebook: {
+    height: '30px',
+    //border: '1px solid red'
+  },
+  anchor: {
+    boxShadow: 'none',
   }
 }));
 
@@ -61,12 +90,19 @@ export default function NavBar({style}) {
             </IconButton>
         </Toolbar>
       </AppBar>
-      <div style={{marginTop: '5px'}}>
-        <Button label='Bình luận' href="/" style={headButton} />
-        {/* <Button label='Tin tức' style={headButton} />
-        <Button label='Thăm dò' style={headButton} /> */}
-        <Button label='Đề mục' href="/tags/" style={headButton} />
-        <Button label='Videos' href="/videos" style={headButton} />
+
+      <div className={classes.container}>
+        <div className={classes.left}>
+          <Button label='Bình luận' href="/" style={headButton} />
+          {/* <Button label='Tin tức' style={headButton} />
+          <Button label='Thăm dò' style={headButton} /> */}
+          <Button label='Đề mục' href="/tags/" style={headButton} />
+          <Button label='Videos' href="/videos" style={headButton} />
+        </div>
+        <div className={classes.right}>
+          <a href='https://www.facebook.com/NghiTruongcom-114028710488039/' className={classes.anchor}><img src='/facebook_logo.png' className={classes.facebook} /></a>
+          <a href='https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw' className={classes.anchor}><img src='/youtube_logo.png' className={classes.youtube} /></a>
+        </div>
       </div>
 
     </div>
