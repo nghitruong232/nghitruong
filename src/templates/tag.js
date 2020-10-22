@@ -4,6 +4,15 @@ import { Link, graphql } from "gatsby"
 import TagsLayout from '../components/TagsLayout';
 import styles from '../styles';
 
+const text = {
+  fontFamily: `Georgia, sans-serif`,
+  //border: '1px solid gray',
+  marginTop: '20px',
+  marginBottom: '10px',
+}
+
+
+
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
   const { edges, totalCount } = data.allMarkdownRemark
@@ -11,23 +20,24 @@ const Tags = ({ pageContext, data }) => {
   return (
     <TagsLayout >
         <div>
-        <h1 style={{fontFamily: `Georgia, sans-serif`}}>{tagHeader}</h1>
-        <ul>
-            {edges.map(({ node }) => {
-            const { slug } = node.fields
-            const { title } = node.frontmatter
-            return (
-                <li key={slug}>
-                  <Link to={slug}>{title}</Link>
-                </li>
-              )
-            })}
-        </ul>
-        {/*
-                This links to a page that does not yet exist.
-                You'll come back to it!
-                */}
-        <Link to="/tags">All tags</Link>
+          <h4 style={text}>Đề mục</h4>
+          <h2 style={{...text, margin: '0 0 30px'}}>{tag} ({totalCount})</h2>
+          <ul>
+              {edges.map(({ node }) => {
+              const { slug } = node.fields
+              const { title } = node.frontmatter
+              return (
+                  <li key={slug}>
+                    <Link to={slug}>{title}</Link>
+                  </li>
+                )
+              })}
+          </ul>
+          {/*
+                  This links to a page that does not yet exist.
+                  You'll come back to it!
+                  */}
+          <Link to="/tags">All tags</Link>
         </div>
     </TagsLayout>
   )
