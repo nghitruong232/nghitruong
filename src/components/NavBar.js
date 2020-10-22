@@ -19,7 +19,8 @@ const useStyles = makeStyles((theme) => ({
     marginRight: theme.spacing(2),
   },
   title: {
-    flexGrow: 1,
+    //flexGrow: 1,
+    fontSize: '8px',
   },
 }));
 
@@ -33,9 +34,9 @@ export default function NavBar({style}) {
           <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" className={classes.title}>
+          <Typography variant="h1" className={classes.title}>
             {/* <a href='/' style={{textDecoration: 'none', color: 'white'}}>Bình luận và Diễn đàn</a> */}
-            Bình luận và Diễn đàn
+            Tin tức, Bình luận & Diễn đàn
           </Typography>
             <IconButton
               aria-label="account of current user"
