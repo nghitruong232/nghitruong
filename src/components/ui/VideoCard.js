@@ -22,6 +22,9 @@ const useStyles = makeStyles({
   media: {
     height: 140,
   },
+  link: {
+    boxShadow: 'none',
+  }
 });
 
 export default function MediaCard({node}) {
@@ -29,7 +32,7 @@ export default function MediaCard({node}) {
 
   return (
     <Card className={classes.root}>
-      <Link to={`/videos/${node.videoId}`}>
+      <Link to={`/videos/${node.videoId}`} className={classes.link}>
       <CardActionArea>
         <CardMedia
           className={classes.media}
