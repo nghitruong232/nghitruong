@@ -4,6 +4,14 @@ import kebabCase from "lodash/kebabCase"
 import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 import TagsLayout from '../components/TagsLayout';
+import VideoCard from '../components/ui/VideoCard';
+import { styles } from "../components/ui/styles";
+
+const container = {
+  display: 'flex',
+  flexWrap: 'wrap',
+  justifyContent: 'space-between',
+}
 
 const Videos = ({
   data: {
@@ -17,16 +25,12 @@ const Videos = ({
         <div>
             <Helmet title={title} />
             <div>
-            <h1>Videos</h1>
-            <ul>
+              <h1>Videos</h1>
+              <div style={container}>
                 {edges.map(({node})=> (
-                <li key={node.id}>
-                    <Link to={`/videos/${node.videoId}/`}>
-                        {node.title}
-                    </Link>
-                </li>
+                  <VideoCard node={node} />
                 ))}
-            </ul>
+              </div>
             </div>
         </div>
     </TagsLayout>
@@ -51,6 +55,9 @@ export const pageQuery = graphql`
                 publishedAt
                 privacyStatus
                 channelTitle
+                thumbnail {
+                  url
+                }
             }
         }
     }

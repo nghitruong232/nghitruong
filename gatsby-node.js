@@ -6,7 +6,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   // Define a template for blog post
-  const blogPost = path.resolve(`./src/templates/article.js`)
+  const articleTemplate = path.resolve(`./src/templates/article.js`)
   const tagTemplate = path.resolve(`./src/templates/tag.js`)
   const videoTemplate = path.resolve(`./src/templates/video.js`)
 
@@ -42,6 +42,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               publishedAt
               privacyStatus
               channelTitle
+              thumbnail {
+                url
+              }
             }
           }
         }
@@ -66,10 +69,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const next = index === 0 ? null : posts[index - 1]
 
       createPage({
-        path: post.fields.slug,
-        component: blogPost,
+        path: `${post.fields.slug}`,
+        component: articleTemplate,
         context: {
-          slug: post.fields.slug,
+          slug: `${post.fields.slug}`,
           previous,
           next,
         },
