@@ -13,7 +13,7 @@ import { Link, graphql } from "gatsby"
 
 const useStyles = makeStyles({
   root: {
-    width: 200,
+    width: 180,
     // minWidth: 180,
     // maxWidth: 180,
     marginBottom: '20px',
