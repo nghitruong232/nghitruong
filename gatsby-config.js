@@ -90,7 +90,7 @@ module.exports = {
     {
       resolve: `gatsby-source-youtube-news-plugin`,
       options: {
-        channelId: ['UCYN2oFv5nFNtgazsBvlwvmw', 'UCnHQqqLn4MMrCkaHJa0FHpA'],
+        channelId: ['UCBrqGwGr5dnKgV4PxTiIAFA', 'UCxdpvMPGUe_BOv4D1zr3caA','UCH47U3R3EZ8yVH96m2wbIfw'],  // lecan, vietface, little saigon tv
         apiKey: 'AIzaSyBka38O_H66mkC_QiPEy_EmT1V0wXDkrWM',
         maxVideos: 50,
       }

@@ -48,6 +48,22 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             }
           }
         }
+        allNewsVideo {
+          edges {
+            node {
+              id
+              title
+              description
+              videoId
+              publishedAt
+              privacyStatus
+              channelTitle
+              thumbnail {
+                url
+              }
+            }
+          }
+        }
       }
     `
   )
@@ -98,6 +114,20 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (videos.length > 0) {
     videos.forEach(({node}) => {
+      createPage({
+        path: `/videos/${node.videoId}/`,
+        component: videoTemplate,
+        context: {
+          node
+        },
+      })
+    })
+  }
+
+  const newsVideos = result.data.allNewsVideo.edges;
+
+  if (newsVideos.length > 0) {
+    newsVideos.forEach(({node}) => {
       createPage({
         path: `/videos/${node.videoId}/`,
         component: videoTemplate,

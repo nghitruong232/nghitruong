@@ -15,6 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
+    "babel-polyfill": "^6.26.0",
+    "crypto": "^1.0.1",
+    "gatsby-source-filesystem": "^2.3.35",
     "lodash": "^4.17.20"
   }
 }

@@ -98,6 +98,7 @@ export default function NavBar({style}) {
       <div className={classes.container}>
         <div className={classes.left}>
           <Button label='Bình luận' href="/" style={headButton('/')} />
+          <Button label='Tin tức' href="/news" style={headButton('/news')} />
           <Button label='Videos' href="/videos" style={headButton('/videos')} />
           {/* <Button label='Tin tức' style={headButton} />
           <Button label='Thăm dò' style={headButton} /> */}
