@@ -19,7 +19,7 @@ const Layout = (props) => {
       }}
     >
         <NavBar location={location} />
-        {location.pathname === rootPath && 
+        {location && location.pathname === rootPath && 
               <img src={'/logo.png'} style={{margin: '30px 0 0'}} />
         }
         <div>{children}</div>
