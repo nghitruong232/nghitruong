@@ -60,8 +60,9 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const headButton = pathname => ({
-  backgroundColor: window.location.pathname === pathname 
-        || window.location.pathname === `${pathname}/` 
+  backgroundColor: typeof window !== 'undefined' 
+          && (window.location.pathname === pathname 
+              || window.location.pathname === `${pathname}/`)
       ? colors.pinkRedDark 
       : colors.pinkRed, 
   link: {
