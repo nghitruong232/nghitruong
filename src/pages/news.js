@@ -18,6 +18,7 @@ const container = (theme, matches) => ({
 })
 
 const Videos = ({
+  location,
   data: {
     lecanVideos: { edges: lecanEdges },
     vietfaceVideos: { edges: vietfaceEdges },
@@ -33,7 +34,7 @@ const Videos = ({
   const vietfaceNodes = vietfaceEdges.slice(0,3);
   const lstvNodes = lstvEdges.slice(0,3);
   return (
-    <TagsLayout>
+    <TagsLayout location={location}>
         <div>
             <Helmet title={title} />
             <div>

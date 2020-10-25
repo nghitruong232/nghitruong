@@ -6,6 +6,7 @@ import { Link, graphql } from "gatsby"
 import TagsLayout from '../components/TagsLayout';
 
 const TagsPage = ({
+  location,
   data: {
     allMarkdownRemark: { group },
     site: {
@@ -13,7 +14,7 @@ const TagsPage = ({
     },
   },
 }) => (
-    <TagsLayout>
+    <TagsLayout location={location} >
         <div>
             <Helmet title={title} />
             <div style={{marginTop: '10px'}}>

@@ -17,7 +17,7 @@ const Layout = (props) => {
         padding: `0 ${rhythm(3 / 4)} ${rhythm(1.5)}`,
       }}
     >
-        <NavBar />
+        <NavBar location={location} />
         <main>{children}</main>
         <footer>
             <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">YouTube</a>&nbsp;&nbsp;

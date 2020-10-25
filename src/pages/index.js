@@ -2,7 +2,8 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import _ from 'lodash'
 import Bio from "../components/bio"
-import Layout from "../components/layout"
+//import Layout from "../components/layout"
+import TagLayout from '../components/TagsLayout';
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 import Button from '../components/ui/Button';
@@ -22,16 +23,16 @@ const BlogIndex = ({ data, location }) => {
 
   if (posts.length === 0) {
     return (
-      <Layout location={location} title={siteTitle}>
+      <TagLayout location={location} title={siteTitle}>
         <SEO title="Bình luận" />
         <Bio />
         <p>No blog posts found. Add markdown posts to "content/blog" (or the directory you specified for the "gatsby-source-filesystem" plugin in gatsby-config.js).</p>
-      </Layout>
+      </TagLayout>
     )
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <TagLayout location={location} title={siteTitle}>
       <SEO title="Bình luận" />
       {/* <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">YouTube</a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.facebook.com/pg/NghiTruongcom-114028710488039">Facebook</a> */}
@@ -82,7 +83,7 @@ const BlogIndex = ({ data, location }) => {
           </article>
         )
       })}
-    </Layout>
+    </TagLayout>
   )
 }
 

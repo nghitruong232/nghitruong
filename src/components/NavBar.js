@@ -59,20 +59,15 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-const headButton = pathname => ({
-  backgroundColor: typeof window !== 'undefined' 
-          && (window.location.pathname === pathname 
-              || window.location.pathname === `${pathname}/`)
-      ? colors.pinkRedDark 
-      : colors.pinkRed, 
-  link: {
-    //color: 'white'
-  }
-})
 
-
-export default function NavBar({style}) {
+export default function NavBar({style, location}) {
   const classes = useStyles();
+
+  const headButton = pathname => ({
+    backgroundColor: location?.pathname === pathname || location?.pathname === `${pathname}/`
+        ? colors.pinkRedDark 
+        : colors.pinkRed, 
+  })
 
   return (
     <div className={classes.root} style={style} >

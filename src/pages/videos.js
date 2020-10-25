@@ -18,6 +18,7 @@ const container = (theme, matches) => ({
 })
 
 const Videos = ({
+  location,
   data: {
     videos: { edges },
     site: {
@@ -28,7 +29,7 @@ const Videos = ({
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.up('sm'))
   return (
-    <TagsLayout>
+    <TagsLayout location={location} >
         <div>
             <Helmet title={title} />
             <div>
