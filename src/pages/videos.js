@@ -14,13 +14,8 @@ const container = (theme, matches) => ({
   gridTemplateColumns: matches ? '1fr 1fr 1fr' : '1fr 1fr',
   columnGap: '15px',
   rowGap: '15px',
+  marginTop: '10px',
 })
-
-const container2 = {
-  display: 'flex',
-  flexWrap: 'wrap',
-  justifyContent: 'space-between',
-}
 
 const Videos = ({
   data: {
@@ -37,7 +32,7 @@ const Videos = ({
         <div>
             <Helmet title={title} />
             <div>
-              <h1>Videos</h1>
+              {/* <h1>Videos</h1> */}
               <div style={container(theme, matches)}>
                 {edges.map(({node})=> (
                   <VideoCard node={node} />

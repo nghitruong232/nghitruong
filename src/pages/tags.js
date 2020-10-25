@@ -16,8 +16,8 @@ const TagsPage = ({
     <TagsLayout>
         <div>
             <Helmet title={title} />
-            <div>
-            <h1 style={{fontFamily: `Georgia, sans-serif`}}>Đề mục</h1>
+            <div style={{marginTop: '10px'}}>
+            {/* <h1 style={{fontFamily: `Georgia, sans-serif`}}>Đề mục</h1> */}
             <ul>
                 {group.map(tag => (
                 <li key={tag.fieldValue}>

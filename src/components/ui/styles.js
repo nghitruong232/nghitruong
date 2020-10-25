@@ -3,6 +3,7 @@ export const colors = {
     appBarBackground: '#1976d2',
     redOrange: '#ff3300',
     pinkRed: '#ffeedd',
+    pinkRedDark: '#ffddcc',
     lightOrange: '#ffeedd',
     brightGreen: '#cccc00',
     lightGreen: '#99cc00',

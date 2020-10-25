@@ -59,12 +59,16 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-const headButton = {
-  backgroundColor: colors.pinkRed, 
+const headButton = pathname => ({
+  backgroundColor: window.location.pathname === pathname 
+        || window.location.pathname === `${pathname}/` 
+      ? colors.pinkRedDark 
+      : colors.pinkRed, 
   link: {
     //color: 'white'
-  },
-}
+  }
+})
+
 
 export default function NavBar({style}) {
   const classes = useStyles();
@@ -93,11 +97,12 @@ export default function NavBar({style}) {
 
       <div className={classes.container}>
         <div className={classes.left}>
-          <Button label='Bình luận' href="/" style={headButton} />
+          <Button label='Bình luận' href="/" style={headButton('/')} />
+          <Button label='Videos' href="/videos" style={headButton('/videos')} />
           {/* <Button label='Tin tức' style={headButton} />
           <Button label='Thăm dò' style={headButton} /> */}
-          <Button label='Đề mục' href="/tags/" style={headButton} />
-          <Button label='Videos' href="/videos" style={headButton} />
+          <Button label='Chuyên đề' href="/tags" style={headButton('/tags')} />
+
         </div>
         <div className={classes.right}>
           <a href='https://www.facebook.com/NghiTruongcom-114028710488039/' className={classes.anchor}><img src='/facebook_logo.png' className={classes.facebook} /></a>
