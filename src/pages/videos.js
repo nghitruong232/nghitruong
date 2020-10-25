@@ -5,9 +5,18 @@ import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 import TagsLayout from '../components/TagsLayout';
 import VideoCard from '../components/ui/VideoCard';
-import { styles } from "../components/ui/styles";
+import { useTheme } from '@material-ui/core/styles';
+import useMediaQuery from '@material-ui/core/useMediaQuery';
 
-const container = {
+
+const container = (theme, matches) => ({
+  display: 'grid',
+  gridTemplateColumns: matches ? '1fr 1fr 1fr' : '1fr 1fr',
+  columnGap: '15px',
+  rowGap: '15px',
+})
+
+const container2 = {
   display: 'flex',
   flexWrap: 'wrap',
   justifyContent: 'space-between',
@@ -20,13 +29,16 @@ const Videos = ({
       siteMetadata: { title },
     },
   },
-}) => (
+}) => {
+  const theme = useTheme();
+  const matches = useMediaQuery(theme.breakpoints.up('sm'))
+  return (
     <TagsLayout>
         <div>
             <Helmet title={title} />
             <div>
               <h1>Videos</h1>
-              <div style={container}>
+              <div style={container(theme, matches)}>
                 {edges.map(({node})=> (
                   <VideoCard node={node} />
                 ))}
@@ -34,7 +46,8 @@ const Videos = ({
             </div>
         </div>
     </TagsLayout>
-)
+  ) 
+}
 
 export default Videos
 

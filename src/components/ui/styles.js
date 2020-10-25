@@ -29,5 +29,9 @@ export const styles = {
     bar: {
         boxShadow: 'none',
         color: 'white',
+    },
+    news: {
+        border: '1px solid gray',
+        marginLeft: '10px',
     }
 }
