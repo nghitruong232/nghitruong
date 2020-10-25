@@ -15,10 +15,14 @@ const Layout = (props) => {
         marginRight: `auto`,
         maxWidth: rhythm(24),
         padding: `0 ${rhythm(3 / 4)} ${rhythm(1.5)}`,
+        //border: '1px solid blue'
       }}
     >
         <NavBar location={location} />
-        <main>{children}</main>
+        {location.pathname === rootPath && 
+              <img src={'/logo.png'} style={{margin: '30px 0 0'}} />
+        }
+        <div>{children}</div>
         <footer>
             <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">YouTube</a>&nbsp;&nbsp;
             <a href="https://www.facebook.com/pg/NghiTruongcom-114028710488039">Facebook</a><br/>

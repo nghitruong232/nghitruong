@@ -9,7 +9,7 @@ const Header = (props) => {
 
   return (
       <div>
-          <NavBar style={{marginBottom: '40px'}} />
+          <NavBar style={{marginBottom: '40px'}} location={location} />
           {location.pathname === rootPath && 
             <Link style={{boxShadow: `none`, color: `inherit`}} to={`/`}>
               <img src={'/logo.png'} />
@@ -17,35 +17,6 @@ const Header = (props) => {
           }
       </div>
     )
-}
-
-
-const Header2 = (props) => {
-  const {location, title} = props;
-  const rootPath = `${__PATH_PREFIX__}/`;
-  
-  let header;
-
-  if (location.pathname === rootPath) {
-    header = (
-      <div>
-          <NavBar style={{marginBottom: '40px'}} />
-          <Link style={{boxShadow: `none`, color: `inherit`}} to={`/`}>
-            <img src={'/logo.png'} />
-          </Link>
-      </div>
-    )
-  } else {
-    header = (
-      <h3 style={{fontFamily: `Montserrat, sans-serif`, marginTop: 0}}>
-        <Link style={{boxShadow: `none`, color: `inherit`}} to={`/`}>
-          {title}
-        </Link>
-      </h3>
-    )
-  }
-
-  return header;
 }
 
 export default Header;
