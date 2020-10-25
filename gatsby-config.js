@@ -90,7 +90,7 @@ module.exports = {
     {
       resolve: `gatsby-source-youtube-news-plugin`,
       options: {
-        channelId: ['UCBrqGwGr5dnKgV4PxTiIAFA', 'UCxdpvMPGUe_BOv4D1zr3caA','UCH47U3R3EZ8yVH96m2wbIfw'],  // lecan, vietface, little saigon tv
+        channelId: ['UCBrqGwGr5dnKgV4PxTiIAFA', 'UCxdpvMPGUe_BOv4D1zr3caA','UCH47U3R3EZ8yVH96m2wbIfw', 'UC7723FqVehXq2zeRb3tP0hQ' ],  // lecan, vietface, little saigon tv, fbnc
         apiKey: 'AIzaSyBka38O_H66mkC_QiPEy_EmT1V0wXDkrWM',
         maxVideos: 50,
       }

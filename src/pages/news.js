@@ -23,6 +23,7 @@ const Videos = ({
     lecanVideos: { edges: lecanEdges },
     vietfaceVideos: { edges: vietfaceEdges },
     lstvVideos: {edges: lstvEdges},
+    fbncVideos: {edges: fbncEdges},
     site: {
       siteMetadata: { title },
     },
@@ -39,6 +40,9 @@ const Videos = ({
             <Helmet title={title} />
             <div>
               <div style={container(theme, matches)}>
+                {fbncEdges.slice(0,3).map(({node})=> (
+                  <VideoCard node={node} />
+                ))}
                 {lecanEdges.slice(0,3).map(({node})=> (
                   <VideoCard node={node} />
                 ))}
@@ -46,6 +50,9 @@ const Videos = ({
                   <VideoCard node={node} />
                 ))}
                 {vietfaceEdges.slice(0,3).map(({node})=> (
+                  <VideoCard node={node} />
+                ))}
+                {fbncEdges.slice(3,6).map(({node})=> (
                   <VideoCard node={node} />
                 ))}
                 {lecanEdges.slice(3,6).map(({node})=> (
@@ -106,6 +113,22 @@ export const pageQuery = graphql`
         }
     }
     lstvVideos: allNewsVideo (filter: {channelId: {eq: "UCH47U3R3EZ8yVH96m2wbIfw"}}) {
+        edges {
+            node {
+                id
+                title
+                description
+                videoId
+                publishedAt
+                privacyStatus
+                channelTitle
+                thumbnail {
+                  url
+                }
+            }
+        }
+    }
+    fbncVideos: allNewsVideo (filter: {channelId: {eq: "UC7723FqVehXq2zeRb3tP0hQ"}}) {
         edges {
             node {
                 id
