@@ -13,11 +13,8 @@ import { Link, graphql } from "gatsby"
 
 const useStyles = makeStyles({
   root: {
-    //width: 180,
-    minWidth: 180,
+    minWidth: 140,
     maxWidth: 300,
-    //marginBottom: '20px',
-    //marginRight: '1px',
   },
   media: {
     height: 140,
