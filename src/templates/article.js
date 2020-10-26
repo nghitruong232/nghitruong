@@ -36,6 +36,7 @@ const ArticleTemplate = ({ data, pageContext, location }) => {
               ...scale(-1 / 5),
               display: `block`,
               marginBottom: rhythm(1),
+              fontFamily: `Georgia, sans-serif`,
             }}
           >
             {authors} {post.frontmatter.date}
@@ -49,6 +50,7 @@ const ArticleTemplate = ({ data, pageContext, location }) => {
         <hr
           style={{
             marginBottom: rhythm(1),
+            fontFamily: `Georgia, sans-serif`,
           }}
         />
         <footer>

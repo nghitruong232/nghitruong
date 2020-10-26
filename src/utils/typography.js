@@ -6,6 +6,10 @@ Wordpress2016.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    "body": {
+      fontFamily: 'Georgia, sans-serif',
+      lineHeight: 1.5,
+    }
   }
 }
 

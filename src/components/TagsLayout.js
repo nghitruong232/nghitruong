@@ -16,6 +16,7 @@ const Layout = (props) => {
         maxWidth: rhythm(24),
         padding: `0 ${rhythm(3 / 4)} ${rhythm(1.5)}`,
         //border: '1px solid blue'
+        fontFamily: `Georgia, sans-serif`,
       }}
     >
         <NavBar location={location} />
@@ -24,8 +25,6 @@ const Layout = (props) => {
         }
         <div>{children}</div>
         <footer>
-            <a href="https://www.youtube.com/channel/UCYN2oFv5nFNtgazsBvlwvmw">YouTube</a>&nbsp;&nbsp;
-            <a href="https://www.facebook.com/pg/NghiTruongcom-114028710488039">Facebook</a><br/>
             © {new Date().getFullYear()}{` `}<a href="https://nghitruong.com">NghiTruong.com</a><br/>
         </footer>
     </div>
