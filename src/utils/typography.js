@@ -6,6 +6,28 @@ Wordpress2016.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+
+    "body": {
+      fontFamily: 'Georgia, sans-serif',
+      lineHeight: 1.5,
+    },
+
+    "videoContainer": {
+      position: 'relative',
+      overflow: 'hidden',
+      width: '100%',
+      //paddingTop: '56.25%',
+    },
+    
+    "responsiveIframe": {
+      position: 'absolute',
+      top: 0,
+      left: 0,
+      bottom: 0,
+      right: 0,
+      width: '100%',
+      height: '100%',
+    }
   }
 }
 

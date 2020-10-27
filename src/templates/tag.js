@@ -20,7 +20,7 @@ const Tags = ({ pageContext, data }) => {
   return (
     <TagsLayout >
         <div>
-          <h4 style={text}>Đề mục</h4>
+          <h4 style={text}>Chuyên đề</h4>
           <h2 style={{...text, margin: '0 0 30px'}}>{tag} ({totalCount})</h2>
           <ul>
               {edges.map(({ node }) => {
@@ -33,11 +33,6 @@ const Tags = ({ pageContext, data }) => {
                 )
               })}
           </ul>
-          {/*
-                  This links to a page that does not yet exist.
-                  You'll come back to it!
-                  */}
-          <Link to="/tags">All tags</Link>
         </div>
     </TagsLayout>
   )

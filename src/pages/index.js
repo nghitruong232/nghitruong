@@ -68,7 +68,7 @@ const BlogIndex = ({ data, location }) => {
               </div>
             </header>
             <section>
-              <p
+              <p style={{fontFamily: 'Georgia, sans-serif'}}
                 dangerouslySetInnerHTML={{
                   __html: post.frontmatter.description || post.excerpt,
                 }}
