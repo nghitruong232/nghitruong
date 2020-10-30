@@ -5,6 +5,12 @@ import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 import TagsLayout from '../components/TagsLayout';
 
+const sortFn = (a, b) => a.totalCount < b.totalCount 
+      ? 1
+      : a.totalCount > b.totalCount 
+          ? -1 
+          : 0;
+
 const TagsPage = ({
   location,
   data: {
@@ -20,7 +26,7 @@ const TagsPage = ({
             <div style={{marginTop: '10px'}}>
             {/* <h1 style={{fontFamily: `Georgia, sans-serif`}}>Đề mục</h1> */}
             <ul>
-                {group.map(tag => (
+                {group.sort(sortFn).map(tag => (
                 <li key={tag.fieldValue}>
                     <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
                     {tag.fieldValue} ({tag.totalCount})
