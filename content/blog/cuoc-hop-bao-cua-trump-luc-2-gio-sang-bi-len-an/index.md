@@ -1,13 +1,13 @@
 ---
 title: "Cuộc họp báo của Trump lúc 2 giờ sáng bị lên án"
 date: "2020-11-04"
-description: 'Nguồn tin từ một nhân viên thân tín từ trong đội tranh cử của Trump tiết lộ ra ngoài cho báo chí biết từ trước rằng Trump dự định sẽ tự tuyên bố thắng cử vào đêm bầu cử. Và y rằng như vậy, vào lúc 2 giờ sáng ngày 4 tháng 11 năm 2020, Donald Trump xuất hiện cùng với vợ và phó tổng thống Mike Pence, tuyên bố rằng dựa theo tổng số phiếu đếm hiện tại thì ông đã thắng cử và yêu cầu phải ngưng đếm phiếu. Động thái này bị giới báo chí từ trong ra đến ngoài nước đều lên án là một hành động phản dân chủ thô bạo chưa từng có trong lịch sử sinh hoạt chính trị Mỹ.'
+description: 'Nguồn tin từ một nhân viên thân tín trong đội tranh cử của Trump tiết lộ ra ngoài cho báo chí biết từ trước rằng Trump dự định sẽ tự tuyên bố thắng cử vào đêm bầu cử. Và y rằng như vậy, vào lúc 2 giờ sáng ngày 4 tháng 11 năm 2020, Donald Trump xuất hiện cùng với vợ và phó tổng thống Mike Pence, tuyên bố rằng dựa theo tổng số phiếu đếm hiện tại thì ông đã thắng cử và yêu cầu phải ngưng đếm phiếu. Động thái này bị giới báo chí từ trong ra đến ngoài nước đều lên án là một hành động phản dân chủ thô bạo chưa từng có trong lịch sử sinh hoạt chính trị Mỹ.'
 authors: "Dốc Thượng"
 tags: ["Bầu cử", "Chính trị", "Hoa Kỳ"]
 youtube: "https://www.youtube.com/watch?v=wFGnQjxeW2A"
 ---
 
-Nguồn tin từ một nhân viên thân tín từ trong đội tranh cử của Trump tiết lộ ra ngoài cho báo chí biết từ trước rằng Trump dự định sẽ tự tuyên bố thắng cử vào đêm bầu cử. Và y rằng như vậy, vào lúc 2 giờ sáng ngày 4 tháng 11 năm 2020, Donald Trump xuất hiện cùng với vợ và phó tổng thống Mike Pence, tuyên bố rằng dựa theo tổng số phiếu đếm hiện tại thì ông đã thắng cử và yêu cầu phải ngưng đếm phiếu. Động thái này bị giới báo chí từ trong ra đến ngoài nước đều lên án là một hành động phản dân chủ thô bạo chưa từng có trong lịch sử sinh hoạt chính trị Mỹ.
+Nguồn tin từ một nhân viên thân tín trong đội tranh cử của Trump tiết lộ ra ngoài cho báo chí biết từ trước rằng Trump dự định sẽ tự tuyên bố thắng cử vào đêm bầu cử. Và y rằng như vậy, vào lúc 2 giờ sáng ngày 4 tháng 11 năm 2020, Donald Trump xuất hiện cùng với vợ và phó tổng thống Mike Pence, tuyên bố rằng dựa theo tổng số phiếu đếm hiện tại thì ông đã thắng cử và yêu cầu phải ngưng đếm phiếu. Động thái này bị giới báo chí từ trong ra đến ngoài nước đều lên án là một hành động phản dân chủ thô bạo chưa từng có trong lịch sử sinh hoạt chính trị Mỹ.
 
 >Nên nhớ, người Mỹ coi trọng việc bầu cử như là một trong những sinh hoạt quan trọng nhất của nền dân chủ Mỹ. Sự công bình, minh bạch và không để ai có thể tranh cãi là điều tối cần thiết để mọi người an tâm rằng tiếng nói của đa số được xác nhận và tôn trọng. 
 
