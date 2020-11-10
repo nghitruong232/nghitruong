@@ -17,7 +17,7 @@ const useStyles = makeStyles({
     maxWidth: 300,
   },
   media: {
-    height: 140,
+    height: 110,
   },
   link: {
     boxShadow: 'none',
