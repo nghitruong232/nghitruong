@@ -3,7 +3,7 @@ title: "Sau bầu cử, cộng đồng Việt đi về đâu?"
 date: "2020-11-14"
 description: "Sau cuộc bầu cử 2020 đầy tranh cãi, mà dấu hiệu ngày càng cho thấy ứng viên Joe Biden đã thắng cuộc chức vị Tổng thống, cộng đồng Việt tại Mỹ mà trong đó một phần lớn ủng hộ ứng viên Donald Trump, đang ở trong tâm trạng thất vọng nhức nhối phủ nhận hiện thực phủ phàng. Và chắc chắn sẽ mất một thời gian lâu hơn để trở lại bình thường. Trong cuộc tranh cử giữa Hilary Clinton và Trump và năm 2016, cộng đồng Việt không thể hiện một thái độ chính trị ủng hộ nồng nhiệt cho một phía nào. Sau bốn năm, Trump đã làm gì mà có được sự ủng hộ gần như tuyệt đối trung thành đó, và hiện tượng này nói lên điều gì về cộng đồng Việt Nam? Đồng thời, câu hỏi được đặt ra là sau khi Trump thất bại, cộng đồng sẽ đi về đâu?"
 authors: "Dốc Thượng"
-tags: ["Bầu cử", "Chính trị", "Hoa Kỳ", "Cộng đồng Việt"]
+tags: ["Bầu cử", "Chính trị", "Hoa Kỳ", "Cộng đồng Hải ngoại"]
 youtube: "https://www.youtube.com/watch?v=-YM4zvcLLd0"
 ---
 
