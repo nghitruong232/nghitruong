@@ -42,7 +42,7 @@ Muốn nói gì thì nói nhưng khi Biden ngồi vào cái ngai ở Toà Bạch
 Ngăn chặn bằng cách nào là một câu hỏi mà lời giải đáp rất phức tạp nhưng có thể tóm tắt trong một tiêu đề 'Cuộc Chiến Tranh Lạnh lần Thứ Nhì đã mở màn từ 5 năm qua.' Trong cuôc chiến tranh lạnh kỳ 2 này, đối thủ mới khác đệ nhất chiến tranh lạnh, chiêu bài không còn là  ý thức hệ Tư Bản Cộng sản, đối thủ không là Nga sô chết dí trong đại lục Đông Âu mà đối thủ mới là con khủng long Trung Hoa, một hiểm hoạ da vàng với một mạng lưới kinh tài toả rộng khắp thế giới.
 Chính yếu đây sẽ là cuộc chiến tranh giữa đong Dollar và đồng Nhân dân tệ.
 
-Nhìn về thân phận Việt Nam, điều mà nguời Việt cần chú ý không phải là Trump hay Biden, mà là sự cạnh tỉnh rằng những cường quốc không thương xót gì những quốc gia nhược tiểu, yếu, nghèo, hèn, hay nhu nhược (như cách nói của Trump chỉ là 'những quốc gia hầm xí'). Trong canh bạc sắp tới, người ta sẵn sàng mang bán hay trao đổi. Những món hàng vô giá trị có thể sẽ bị bán rẻ hay dùng làm quân cờ thí.
+Nhìn về thân phận Việt Nam, điều mà nguời Việt cần chú ý không phải là Trump hay Biden, mà là sự cạnh tỉnh rằng những cường quốc không thương xót gì những quốc gia nhược tiểu, yếu, nghèo, hèn, hay nhu nhược (như cách nói của Trump chỉ là 'những quốc gia hầm xí'). Trong canh bạc sắp tới, người ta sẵn sàng mang bán hay trao đổi. Những món hàng vô giá có thể sẽ bị bán rẻ hay dùng làm quân cờ thí.
 
 Đó mới là điều mà người Việt Nam phải thức tỉnh và nhìn vào thế giới quanh mình, đơn giản nhất là nhìn về Đại hàn và Mễ Tây cơ. Tình cảnh Việt Nam đối với Trung Hoa còn tệ hại và nguy hiểm hơn là Hoa Ky đối với Mễ tây cơ vì Hoa Kỳ tuy bạc đãi, chèn ép Mễ Tây Cơ nhưng không có cái tâm địa độc ác kiểu Đông Phương của người Tàu.
 
